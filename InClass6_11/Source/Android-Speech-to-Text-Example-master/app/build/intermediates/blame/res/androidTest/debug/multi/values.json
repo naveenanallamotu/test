@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "C:\\Users\\Puchu\\Downloads\\Android-Speech-to-Text-Example-master\\Android-Speech-to-Text-Example-master\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 45,
+                    "endOffset": 96
+                },
+                "from": {
+                    "file": "C:\\Users\\Puchu\\.android\\build-cache\\db713c248358f9c2aa19eb40634db6e0dd7f0ebf\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 229,
+                        "endColumn": 45,
+                        "endOffset": 270
+                    }
+                }
+            }
+        ]
+    }
+]
